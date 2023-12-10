@@ -1,4 +1,4 @@
-import Styles from '../../Styles/Futebol.module.css';
+import Styles from '../../styles/Futebol.module.css';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 
