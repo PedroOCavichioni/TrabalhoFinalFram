@@ -1,0 +1,36 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #222;
+    margin-top: 17vh;
+   }
+   
+   .footer p {
+    font-size: 14px;
+    color: #fff;
+   }
+
+   .navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    padding: 10px;
+    list-style-type: none;
+    font-size: 25px;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: #ddd;
+    color: black;
+}
