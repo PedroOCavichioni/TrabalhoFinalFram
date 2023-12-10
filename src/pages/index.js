@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Styles from '../Styles/Home.module.css';
+import Styles from '../styles/Home.module.css';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 export default function Home() {
